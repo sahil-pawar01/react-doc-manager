@@ -34,15 +34,6 @@ A modern and interactive **Document Management Application** built using React.j
 
 ---
 
-## 📸 Screenshots
-
-<!-- Add your project screenshots here -->
-
-<!-- Example: -->
-<!-- ![Home Page](./public/screenshots/home.png) -->
-
----
-
 ## 🚀 Getting Started
 
 Follow these steps to run the project locally.
